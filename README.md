@@ -1,4 +1,4 @@
-# Algoritmos de Aprendizado de Máquina
+# Técnicas de Aprendizado de Máquina
 
 Neste repisotório - ao longo da disciplina de Aprendizado de Máquina da Unicamp - pude explorar alguns algoritmos que, embora sejam simples frente às tecnologias que possuímos hoje, são altamente poderosos a depender das características do problema. Além disso, como forma de aprendizado, grande parte deles foram feitos do zero (_from scratch_).
 
