@@ -14,7 +14,7 @@ Banco de dados: http://archive.ics.uci.edu/dataset/240/human+activity+recognitio
 
 ## Projeto - Comparativo de Técnicas de Aprendizado de Máquina em um Problema de Classificação
 
-
+Em andamento.
 
 
  
