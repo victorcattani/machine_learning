@@ -12,9 +12,12 @@ Neste repisotório - ao longo da disciplina de Aprendizado de Máquina da Unicam
 
 Banco de dados: http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones   
 
-## Projeto - Comparativo de Técnicas de Aprendizado de Máquina em um Problema de Classificação
+## Projeto - Comparativo de Técnicas de Aprendizado de Máquina em um Problema de Classificação Binária
 
-Em andamento.
+  Este projeto explorou o desempenho de diferentes técnicas de aprendizado de máquina - Rede Neural, Máquina de Vetores Suporte (SVM) e KNN - em um problema de classificação binária. Os dados utilizados referem-se a sinais de sonar para classificação de minas (cilindros metálicos) e rochas de tamanho equivalente no assoalho marinho. Destaca-se, a fim de melhor compreender as técnicas citadas, a Rede Neural e o KNN foram elaborados do zero (_from scratch_). Além dos resultados propriamente ditos, são apresentadas as modelagens matemáticas relativas a cada uma das técnicas de aprendizado de máquina exploradas. 
+
+Banco de dados: http://archive.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks
+
 
 
  
